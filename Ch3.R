@@ -50,3 +50,4 @@ regplot = function(x,y,...){
 }
 attach(Carseats)
 regplot(Price,Sales,xlab="Price",main="Car Seats",ylab="Sales",col="blue",pch=20)
+
